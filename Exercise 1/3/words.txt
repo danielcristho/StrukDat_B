@@ -1,0 +1,11 @@
+Cat, Gato
+Sitting, Sentado
+Relax, Relajarse
+Masked, Enmascarado
+Rider, Jinete
+Saber, Sable
+Sword, Espada
+Tear, Arrancar
+Hole, Hueco
+World, Mundo
+Devil, Diablo

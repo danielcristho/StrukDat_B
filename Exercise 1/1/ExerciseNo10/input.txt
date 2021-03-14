@@ -1,0 +1,9 @@
+Snacks 7000 2500
+Games 3200 7000
+Sports 3700 1570
+Sweets 4300 2000
+Shirts 5200 1200
+Bakery 5800 2300
+Beverages 2000 3000
+Desserts 7800 4500
+xxxxxx

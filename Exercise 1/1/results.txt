@@ -1,0 +1,23 @@
+Invalid vote: 11
+Invalid vote: 12
+Invalid vote: 18
+
+Number of voters: 43
+Number of valid votes: 40
+Number of spoilt votes: 3
+
+Candidate Score	
+
+Daichi Kamijo          4
+Hayato Fukamiya        2
+Kenshin Nagamine       5
+Kento Fukamiya         6
+Reika Shindai          3
+Ren Akamichi           3
+Rintaro Shindo         4
+Ryo Ogami              2
+Tetsuo Daishinji       4
+Touma Kamiyama         7
+
+The winner(s)
+Touma Kamiyama

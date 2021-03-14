@@ -1,0 +1,13 @@
+List of stands from the most profitable:
+-----------------------------
+Snacks          : 4500 
+Shirts          : 4000 
+Bakery          : 3500 
+Desserts        : 3300 
+Sweets          : 2300 
+Sports          : 2130 
+Beverages       : -1000 
+Games           : -3800 
+The number of stands: 8
+The profit is 14930
+The most profitable stand is: Snacks with 4500 profit
