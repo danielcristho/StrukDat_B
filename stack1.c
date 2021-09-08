@@ -1,4 +1,4 @@
-#for my slides
+//for my slides
 
 #include<stdio.h>
 // PUSH OPERATION
