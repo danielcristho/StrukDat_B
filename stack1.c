@@ -1,3 +1,5 @@
+#for my slides
+
 #include<stdio.h>
 // PUSH OPERATION
 void push(char element, 
